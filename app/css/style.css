@@ -5,6 +5,11 @@ Template variables
 /* 
     Basics
 */
+
+.img-circle.devin-face{
+  width: 10%;
+}
+
 html, body {
   height: 100%; }
 
